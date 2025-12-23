@@ -1,9 +1,8 @@
 langchain
-langchain-core
-langchain-openai
-langchain-community
-langchain-ollama
-langchain-huggingface
+langchain_core
+langchain_openai
+langchain_community
+langchain_ollama
+langchain_huggingface
 pypdf
 pymupdf
-transformers
