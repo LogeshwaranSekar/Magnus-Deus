@@ -1,8 +1,13 @@
 langchain
 langchain_core
-langchain_openai
 langchain_community
-langchain_ollama
-langchain_huggingface
 pypdf
 pymupdf
+sentence_transformers
+faiss_cpu
+chromadb
+langchain_groq
+python_dotenv
+typesense
+langchain_openai
+langgraph
